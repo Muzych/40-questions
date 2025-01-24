@@ -1,40 +1,36 @@
-1. What did you do this year that you’d never done before?
-2. Did you keep your new year’s resolutions?
-3. Did anyone close to you give birth?
-4. Did anyone close to you die?
-5. What cities/states/countries did you visit?
-6. What would you like to have next year that you lacked this year?
-7. What date(s) from this year will remain etched upon your memory, and why?
-8. What was your biggest achievement of the year?
-9. What was your biggest failure?
-10. What other hardships did you face?
-11. Did you suffer illness or injury?
-12. What was the best thing you bought?
-13. Whose behavior merited celebration?
-14. Whose behavior made you appalled?
-15. Where did most of your money go?
-16. What did you get really, really, really excited about?
-17. What song will always remind you of this year?
-18. Compared to this time last year, are you: happier or sadder? Thinner or fatter? Richer or poorer?
-19. What do you wish you’d done more of?
-20. What do you wish you’d done less of?
-21. How are you spending the holidays?
-22. Did you fall in love this year?
-23. Do you hate anyone now that you didn’t hate this time last year?
-24. What was your favorite show?
-25. What was the best book you read?
-26. What was your greatest musical discovery of the year?
-27. What was your favorite film?
-28. What was your favorite meal?
-29. What did you want and get?
-30. What did you want and not get?
-31. What did you do on your birthday?
-32. What one thing would have made your year immeasurably more satisfying?
-33. How would you describe your personal fashion this year?
-34. What kept you sane?
-35. Which celebrity/public figure did you admire the most?
-36. What political issue stirred you the most?
-37. Who did you miss?
-38. Who was the best new person you met?
-39. What valuable life lesson did you learn this year?
-40. What is a quote that sums up your year?
+1. 你今年做了哪些之前从未做过的事？
+2. 你有没有遵守年初时和自己许下的约定？
+3. 你身边有人生孩子了吗？
+4. 你身边有人去世了吗？
+5. 你去了哪些城市/州/国家？
+6. 明年你想要获得哪些你今年没有的东西？
+7. 今年的哪个或哪些日子会铭刻在你的记忆中，为什么？
+8. 你今年最大的成就是什么？
+9. 你今年最大的失败是什么？
+10. 你今年还遇到过哪些困难？
+11. 你今年是否生过病或受过伤？
+12. 你今年买过的最好的东西是什么？
+13. 谁的行为令你感到震惊？
+14. 你大部分的钱都花到哪里去了？
+15. 有什么事让你感到超级、超级、超级兴奋？
+16. 哪首歌会永远让你想起这一年？
+17. 与去年的这个时候相比，你是：感到更快乐还是更悲伤了？变得更瘦还是更胖了？变得更富还是更穷了？
+18. 你希望自己能做得更多的是什么？
+19. 你希望自己能做得更少的是什么？
+20. 你是如何度过节假日的？
+21. 你今年坠入爱河了吗？
+22. 你是否有讨厌某个你去年此时不觉得讨厌的人呢？
+23. 你最喜欢的电视节目是什么？
+24. 你读过最好的一本书是什么？
+25. 你今年发现的最好听的一首歌是什么？
+26. 你今年看过最喜欢的一部电影是什么？
+27.  你今年吃过最好吃的一顿饭是什么？
+28. 你生日那天做了什么？
+29. 有什么还未发生的事，如果发生了，会让你的这一年变得无比满足?
+30. 你会如何描述你今年的个人时尚风格？
+31. 是什么让你保持理智？
+32. 你最欣赏哪个名人/公众人物？
+33.  你想念哪些人？
+34. 在你新认识的人之中，谁是最好的？
+35. 今年你学到了什么宝贵的人生经验？
+36. 能够总结你这一年的一句话是什么？

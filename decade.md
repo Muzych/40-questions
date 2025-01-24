@@ -1,40 +1,40 @@
-1. What would you do if you had 6 months to live?
-2. What would you do if you had a billion dollars?
-3. What advice would you give yourself 10 years ago?
-4. What do you hope will be the same 10 years from now?
-5. What do you hope will be different 10 years from now?
-6. What is your idea of perfect happiness?
-7. When and where were you happiest?
-8. Why do you get out of bed in the morning?
-9. What do you consider the lowest depth of misery?
-10. What is your most marked characteristic?
-11. What is your greatest fear?
-12. What is the trait you most deplore in yourself?
-13. What is the trait you most deplore in others?
-14. On what occasion do you lie?
-15. What is your greatest extravagance?
-16. What do you consider the most overrated virtue?
-17. What do you most dislike about your appearance?
-18. If you could change one thing about yourself, what would it be?
-19. Which talent would you most like to have?
-20. What do people frequently misunderstand about you?
-21. What is the quality you most like in a man?
-22. What is the quality you most like in a woman?
-23. What do you most value in your friends?
-24. What do you consider your greatest achievement?
-25. If you could give everyone in the world one gift, what would it be?
-26. What was your greatest waste of time?
-27. What do you find painful but worth doing?
-28. Where would you most like to live?
-29. What is your most treasured possession?
-30. Who is your best friend?
-31. Who or what is the greatest love of your life?
-32. Which living person do you most admire?
-33. Who is your hero of fiction?
-34. Which historical figure do you most identify with?
-35. What is your greatest regret?
-36. How would you like to die?
-37. What is your motto?
-38. What is the best compliment you ever received?
-39. What is the luckiest thing that happened to you?
-40. What makes you hopeful?
+1.  若生命只剩最后六个月，你会去做什么？
+2.  若拥有亿万财富，你会做什么？
+3.  现在的你会给十年前的你一些什么建议？
+4.  你希望十年之后，什么依旧保持一致？
+5.  你希望十年之后，什么是发生了变化？
+6.  在你心中什么是最完美的幸福？
+7.  何时何地，你最幸福过？
+8.  为什么每天要起床？
+9.  什么是最痛苦的？
+10. 你的性格是什么？
+11. 你最害怕的是什么？
+12. 你最想培养的特质是什么？
+13. 你最希望别人的拥有的特质是什么？
+14. 什么时候会骗自己？
+15. 浪费过什么？
+16. 什么样的美德被过誉了？
+17. 你最不喜欢自己外表的什么方面？
+18. 如果你能改变一件事情，那是什么？
+19. 你期望什么样的天赋？
+20. 别人通常会误解你什么？
+21. 你欣赏男人身上的气质是什么？
+22. 你欣赏女人身上的气质是什么？
+23. 你最看重朋友的什么？
+24. 过去一年，最大的成就？
+25. 如果你可以给每一个人同样一个礼物，那是什么？
+26. 时间浪费在什么上了？
+27. 最痛苦却又最值得做的是什么？
+28. 你最想去什么地方生活？
+29. 你最喜欢的一件东西？
+30. 谁是你最好的朋友？
+31. 谁或什么是你最珍贵的？
+32. 当今世上，你最欣赏的人是？
+33. 你最欣赏的一个小说英雄？
+34. 你觉得和哪个历史人物最像？
+35. 最后悔什么？
+36. 你希望以何种方式结束自己的生命？
+37. 座右铭是？
+38. 你受到最好赞美是？
+39. 最幸运的一件事是？
+40. 什么让你充满了希望？
